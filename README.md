@@ -1,5 +1,5 @@
 
-Swapping two numbers in two ways
+Swapping two numbers in two ways <br>
 Largest among three numbers
 Fibonacci series
 Check if given number is prime or not
