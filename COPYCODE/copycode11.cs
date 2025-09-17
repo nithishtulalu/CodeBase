@@ -7,6 +7,8 @@ namespace COPYCODE
     {
         static void Main(string[] args)
         {
+
+// in two arrays
             string[] str1 = { "C#", "java", "ssms", "mongoDb" };
             string[] str2 = { "C#", "python", "sql", "mongoDb" };
 
@@ -20,6 +22,16 @@ namespace COPYCODE
                     }
                 }
             }
+
+
+//in single array using   linq
+string[] names = { "Nithish", "Chandu", "Ravi", "Nithish", "Arjun", "Chandu", "Ravi", "Kiran" };
+
+var duplicates = names.GroupBy(x => x)
+    .Where(g => g.Count() > 1)
+    .Select(g => g.Key);
+
+Console.WriteLine("Duplicate names: " + string.Join(", ", duplicates));
         }
     }
 }
