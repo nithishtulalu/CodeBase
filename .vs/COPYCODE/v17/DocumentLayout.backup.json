@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP .NET CORE WEB API\\COPYCODE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|COPYCODE||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|f:\\asp .net core web api\\copycode\\copycode\\copycode42.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode42.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode41.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode41.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|f:\\asp .net core web api\\copycode\\copycode\\copycode36.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode36.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|f:\\asp .net core web api\\copycode\\copycode\\copycode35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|f:\\asp .net core web api\\copycode\\copycode\\copycode34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|f:\\asp .net core web api\\copycode\\copycode\\copycode31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|F:\\ASP .NET CORE WEB API\\COPYCODE\\copycode\\copycode14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|solutionrelative:copycode\\copycode14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93AA121-558E-40F8-9F06-57627552B925}|COPYCODE\\COPYCODE.csproj|f:\\asp .net core web api\\copycode\\copycode\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "COPYCODE",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\COPYCODE.csproj",
+              "RelativeDocumentMoniker": "COPYCODE\\COPYCODE.csproj",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\COPYCODE.csproj*",
+              "RelativeToolTip": "COPYCODE\\COPYCODE.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-09T01:17:55.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "copycode42.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode42.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode42.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode42.cs",
+              "RelativeToolTip": "COPYCODE\\copycode42.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:41:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "copycode35.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode35.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode35.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode35.cs",
+              "RelativeToolTip": "COPYCODE\\copycode35.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:30:57.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "copycode34.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode34.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode34.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode34.cs",
+              "RelativeToolTip": "COPYCODE\\copycode34.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:30:50.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "copycode36.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode36.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode36.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode36.cs",
+              "RelativeToolTip": "COPYCODE\\copycode36.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:20:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "copycode31.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode31.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode31.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode31.cs",
+              "RelativeToolTip": "COPYCODE\\copycode31.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:59:21.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "copycode32.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode32.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode32.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode32.cs",
+              "RelativeToolTip": "COPYCODE\\copycode32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:59:17.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "copycode33.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode33.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode33.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode33.cs",
+              "RelativeToolTip": "COPYCODE\\copycode33.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:59:14.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "copycode23.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode23.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode23.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode23.cs",
+              "RelativeToolTip": "COPYCODE\\copycode23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:39:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "copycode24.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode24.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode24.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode24.cs",
+              "RelativeToolTip": "COPYCODE\\copycode24.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:39:07.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "copycode21.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode21.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode21.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode21.cs",
+              "RelativeToolTip": "COPYCODE\\copycode21.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:21:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "copycode20.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode20.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode20.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode20.cs",
+              "RelativeToolTip": "COPYCODE\\copycode20.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:10:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "copycode2.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode2.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode2.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode2.cs",
+              "RelativeToolTip": "COPYCODE\\copycode2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:10:39.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "copycode19.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode19.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode19.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode19.cs",
+              "RelativeToolTip": "COPYCODE\\copycode19.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:10:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "copycode18.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode18.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode18.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode18.cs",
+              "RelativeToolTip": "COPYCODE\\copycode18.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:02:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "copycode17.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode17.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode17.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode17.cs",
+              "RelativeToolTip": "COPYCODE\\copycode17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:59:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "copycode16.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode16.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode16.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode16.cs",
+              "RelativeToolTip": "COPYCODE\\copycode16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:59:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "copycode14.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode14.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode14.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode14.cs",
+              "RelativeToolTip": "COPYCODE\\copycode14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:46:30.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "copycode15.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode15.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode15.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode15.cs",
+              "RelativeToolTip": "COPYCODE\\copycode15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:46:24.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "copycode41.cs",
+              "DocumentMoniker": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode41.cs",
+              "RelativeDocumentMoniker": "COPYCODE\\copycode41.cs",
+              "ToolTip": "F:\\ASP .NET CORE WEB API\\COPYCODE\\COPYCODE\\copycode41.cs",
+              "RelativeToolTip": "COPYCODE\\copycode41.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:07:33.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
